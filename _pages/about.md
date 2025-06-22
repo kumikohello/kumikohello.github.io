@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a rising third-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the Computational Affective and Social Neuroscience Laboratory (https://mcnlab.uchicago.edu/), advised by Dr. Yuan Chang Leong. 
+Hello! I am a rising third-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
 
 I am broadly interested in how our emotions affect our memory, and how accurately AI models can predict activities in the human brain.
 
-<!-- My creative website: -->
+My creative website: <a href="https://kumikohello.github.io/vellunea/">website</a>
 
 <!--
 A data-driven personal website
