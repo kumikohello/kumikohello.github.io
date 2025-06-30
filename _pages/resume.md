@@ -22,7 +22,7 @@ Experience
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
 
-**University of Toko Department of Economics and Public Policy**, Tokyo, Japan, *Research Assistant*, June 2024 - August 2024
+**University of Tokyo Department of Economics and Public Policy**, Tokyo, Japan, *Research Assistant*, June 2024 - August 2024
 * Conducted model analysis and data analysis on the relationship between the COVID-19 pandemic
 * Created graphs on inflation for G7 countries using Python (matplotlib) using data from FRED
 * Wrote drafts of two research papers on predicting medical demand during COVID-19 in Japan
