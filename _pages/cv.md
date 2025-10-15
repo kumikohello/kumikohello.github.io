@@ -36,6 +36,9 @@ June 2024 - August 2024
 
 Presentations
 ------
+**University of Chicago, Biological Sciences Division Quantitative Biology Summer Fellowship Symposium**, Chicago, October 2025
+* Presented my research on how pupil size predicts memory for emotionally charged events during narrative processing.
+
 **Japanese Psychological Association**, Presentation battle for university and high school students, Tokyo, Japan, September 2022
 * Presented my research on earworms and "cure tunes" in English
 * Was the only one who presented in English
@@ -59,8 +62,13 @@ Technical Projects
 
 Other Experience
 ------
-**Japanese Student Association, University of Chicago**, Chicago, IL, *Secretary*, September 2025 - present
+**Mindscapes, University of Chicago**, Chicago, IL, *Treasurer*, September 2025 - present
 * Keep track of funds
+* Attend board meetings and organize cognitive science related talks
+
+**Japanese Student Association, University of Chicago**, Chicago, IL, *Secretary*, September 2025 - present
+* Take meeting notes
+* Help out the presidents
 * Organize study breaks
 
 **Japanese Student Association, University of Chicago**, Chicago, IL, *Events Board*, January 2025 - June 2025
