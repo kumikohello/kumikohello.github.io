@@ -42,8 +42,13 @@ Technical Projects
 
 Leadership & Activities
 ------
-**Japanese Student Association, University of Chicago**, Chicago, IL, *Secretary*, September 2025 - present  
+**Mindscapes, University of Chicago**, Chicago, IL, *Treasurer*, September 2025 - present
 * Keep track of funds
+* Attend board meetings and organize cognitive science related talks
+
+**Japanese Student Association, University of Chicago**, Chicago, IL, *Secretary*, September 2025 - present  
+* Take meeting notes
+* Help out the presidents
 * Organize study breaks
 
 **Japanese Student Association, University of Chicago**, Chicago, IL, *Events Board*, January 2025 - June 2025  
@@ -55,7 +60,6 @@ Leadership & Activities
 
 **Go Club, University of Chicago**, Chicago, IL, *Member*, November 2023 - present  
 * Play and study go at least once a week
-
 
 Skills and Interests
 ------
