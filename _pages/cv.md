@@ -18,7 +18,7 @@ Research experience
 ------
 **University of Chicago Computational Affective and Social Neuroscience Lab**, Chicago, IL
 *Research Assistant,  
-PI: **Dr. Yuan Chang Leong***, September 2024 - present  
+PI: **Dr. Yuan Chang Leong**, September 2024 - present  
 * Conducted preprocessing and analysis of pupil dilation data using Python, R, and MATLAB
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
@@ -96,13 +96,16 @@ Selected Coursework
 Skills and Interests
 ------
 **Research Interests:** Machine Learning, Brain Decoding, Emotions and Memory
+
 **Computer:** 
 * Proficient in Python, Microsoft, PowerPoint, and Excel  
 * Experienced in C, R, MATLAB, Git, and Google Sites  
 * Familiar with Numpy, Pandas, JavaScript, HTML, CSS, SQL, and Web Development  
+
 **Neuroscience & Psychology:** 
 * Software: Qualtrics
 * Hardware: SR Research Eyelink 1000/Portable Duo eyetracker
+
 **Languages:** Fluent in English and Japanese
 
 
