@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a rising third-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
+Hello! I am a third-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
 
 I am broadly interested in how our emotions affect our memory, and how accurately we can replicate the human mind in AI models.
 

@@ -85,12 +85,24 @@ Remote, *Website Developer*, December 2023
 * Looked after the Turkish team all day for an entire week
 * Helped translate from Japanese to English and English to Japanese
 
+Selected Coursework
+------
+* CMSC 25300 Mathematical Foundations of Machine Learning
+* COGS 20002 Cognitive Models
+* PHIL 29906 Philosophy of Artificial Intelligence: Mind and Model
+* PSYC 31900 The Neuroscience of Narratives
+* STAT 24410 Statistical Theory and Methods Ia
+
 Skills and Interests
 ------
-**Research Interests:** Machine Learning, Emotions and Memory
-**Computer:** Proficient in Python, Microsoft, PowerPoint, and Excel  
-              Experienced in C, R, MATLAB, Git, and Google Sites  
-              Familiar with Numpy, Pandas, JavaScript, HTML, CSS, SQL, and Web Development  
+**Research Interests:** Machine Learning, Brain Decoding, Emotions and Memory
+**Computer:** 
+* Proficient in Python, Microsoft, PowerPoint, and Excel  
+* Experienced in C, R, MATLAB, Git, and Google Sites  
+* Familiar with Numpy, Pandas, JavaScript, HTML, CSS, SQL, and Web Development  
+**Neuroscience & Psychology:** 
+* Software: Qualtrics
+* Hardware: SR Research Eyelink 1000/Portable Duo eyetracker
 **Languages:** Fluent in English and Japanese
 
 

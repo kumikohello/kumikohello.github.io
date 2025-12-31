@@ -20,3 +20,4 @@ Presentations
 Ongoing Research
 ------
 1. How does emotional valence affect our memory? (advised by YC Leong)
+2. Can we decode fMRI data to semantics and does it generalize across different people? (advised by YC Leong)
