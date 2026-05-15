@@ -18,7 +18,8 @@ Experience
 ------
 **University of Chicago Computational Affective and Social Neuroscience Lab**, Chicago, IL
 *Research Assistant, PI: **Dr. Yuan Chang Leong***, September 2024 - present
-* Conducted preprocessing and analysis of pupil dilation data using Python, R, and MATLAB
+* Decode fMRI data into language
+* Conducted preprocessing and analysis of pupil dilation and fMRI data using Python, R, and MATLAB
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
 
@@ -32,6 +33,7 @@ Experience
 
 Awards and Grants
 ------
+**2026 Quad Summer Undergraduate Research Scholar** awarded $5,500 stipend for Research
 **BSCD Quantitative Biology Summer Fellowhip:** awarded $5,500 stipend for Quantitative Biology Research  
 
 Technical Projects

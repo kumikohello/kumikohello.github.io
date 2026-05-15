@@ -52,6 +52,7 @@ Presentations
 
 Awards and Grants
 ------
+2026 Quad Summer Undergraduate Research Scholar ($5,500)
 2025 University of Chicago Biological Sciences Collegiate Division Quantitative Biology Summer Fellowship ($5,500)
 
 Technical Projects
@@ -88,7 +89,9 @@ Remote, *Website Developer*, December 2023
 Selected Coursework
 ------
 * CMSC 25300 Mathematical Foundations of Machine Learning
+* CMSC 25700 Natural Language Processing
 * COGS 20002 Cognitive Models
+* NSCI 22600 Cognition and Overcoming its Limits
 * PHIL 29906 Philosophy of Artificial Intelligence: Mind and Model
 * PSYC 31900 The Neuroscience of Narratives
 * STAT 24410 Statistical Theory and Methods Ia
