@@ -38,9 +38,9 @@ Awards and Grants
 
 Technical Projects
 ------
-**Go Bot, University of Chicago**, February 2024 - March 2024  
-* Built a Go Bot using Python
-* Beat the Random Bot, which chose random moves at random, by 100%
+**Music Therapy for Alzheimer's Disease, University of Chicago, NSCI 22600**, April 2026 - May 2026
+* Built a website exploring how music therapy could help Alzheimer's patients remember
+* Link: <a href="https://kumikohello.github.io/music-alzheimers/">website</a>
 
 Leadership & Activities
 ------
