@@ -17,8 +17,9 @@ Education
 Research experience
 ------
 **University of Chicago Computational Affective and Social Neuroscience Lab**, Chicago, IL
-*Research Assistant,  
+*Research Assistant*,  
 PI: **Dr. Yuan Chang Leong**, September 2024 - present  
+* Used voxelwise encoding model to decode fMRI data to semantics
 * Conducted preprocessing and analysis of pupil dilation data using Python, R, and MATLAB
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
@@ -63,7 +64,11 @@ Technical Projects
 
 Other Experience
 ------
-**Mindscapes, University of Chicago**, Chicago, IL, *Treasurer*, September 2025 - present
+**Mindscapes, University of Chicago**, Chicago, IL, *President*, June 2026 - present
+* Keep track of funds
+* Attend board meetings and organize cognitive science related talks
+
+**Mindscapes, University of Chicago**, Chicago, IL, *Treasurer*, September 2025 - June 2026
 * Keep track of funds
 * Attend board meetings and organize cognitive science related talks
 
@@ -79,7 +84,7 @@ Other Experience
 **House Council, University of Chicago**, Chicago, IL, *Intramural Sports Representative*, September 2024 - June 2025
 * Signed up for Intramural Sports every quarter and recruit members
 
-Remote, *Website Developer*, December 2023
+**Website Developer**, December 2023
 * Made a website for a Professor at the University of Tokyo using HTML and CSS on Google Sites
 
 **International Mathematical Olympiad**, Chiba, Japan, *Guide*, July 2023
@@ -91,6 +96,7 @@ Selected Coursework
 * CMSC 25300 Mathematical Foundations of Machine Learning
 * CMSC 25700 Natural Language Processing
 * COGS 20002 Cognitive Models
+* LING 20001 Introduction to Linguistics
 * NSCI 22600 Cognition and Overcoming its Limits
 * PHIL 29906 Philosophy of Artificial Intelligence: Mind and Model
 * PSYC 31900 The Neuroscience of Narratives
@@ -101,8 +107,8 @@ Skills and Interests
 **Research Interests:** Machine Learning, Brain Decoding, Emotions and Memory
 
 **Computer:** 
-* Proficient in Python, Microsoft, PowerPoint, and Excel  
-* Experienced in C, R, MATLAB, Git, and Google Sites  
+* Proficient in Python, R, Microsoft, PowerPoint, and Excel  
+* Experienced in C, MATLAB, Git, and Google Sites  
 * Familiar with Numpy, Pandas, JavaScript, HTML, CSS, SQL, and Web Development  
 
 **Neuroscience & Psychology:** 
