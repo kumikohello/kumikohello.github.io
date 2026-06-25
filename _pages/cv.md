@@ -58,17 +58,17 @@ Awards and Grants
 
 Technical Projects
 ------
-**Go Bot, University of Chicago, CMSC 14200**, February 2024 - March 2024
-* Built a Go Bot using Python
-* Beat the Random Bot, which chose random moves at random, by 100%
+**Music Therapy for Alzheimer's Disease, University of Chicago, NSCI 22600**, April 2026 - May 2026
+* Built a website exploring how music therapy could help Alzheimer's patients remember
+* Link: <a href="https://kumikohello.github.io/music-alzheimers/">website</a>
 
 **Uncertainty Awareness in Medical LLMs, University of Chicago, CMSC 25700**, February 2026 - March 2026
 * Investigated uncertainty estimation methods for medical question answering using the MedQA dataset
 * Found that semantic uncertainty can serve as a useful indicator of unreliable predictions in medical question answering systems
 
-**Music Therapy for Alzheimer's Disease, University of Chicago, NSCI 22600**, April 2026 - May 2026
-* Built a website exploring how music therapy could help Alzheimer's patients remember
-* Link: <a href="https://kumikohello.github.io/music-alzheimers/">website</a>
+**Go Bot, University of Chicago, CMSC 14200**, February 2024 - March 2024
+* Built a Go Bot using Python
+* Beat the Random Bot, which chose random moves at random, by 100%
 
 Other Experience
 ------
