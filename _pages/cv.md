@@ -52,8 +52,8 @@ Presentations
 
 Awards and Grants
 ------
-2026 Quad Summer Undergraduate Research Scholar ($5,500)
-2025 University of Chicago Biological Sciences Collegiate Division Quantitative Biology Summer Fellowship ($5,500)
+* 2026 Quad Summer Undergraduate Research Scholar ($5,500)
+* 2025 University of Chicago Biological Sciences Collegiate Division Quantitative Biology Summer Fellowship ($5,500)
 
 Technical Projects
 ------

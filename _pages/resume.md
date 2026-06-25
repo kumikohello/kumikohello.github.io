@@ -33,8 +33,8 @@ Experience
 
 Awards and Grants
 ------
-**2026 Quad Summer Undergraduate Research Scholar** awarded $5,500 stipend for Research
-**BSCD Quantitative Biology Summer Fellowhip:** awarded $5,500 stipend for Quantitative Biology Research  
+* **2026 Quad Summer Undergraduate Research Scholar:** awarded $5,500 stipend for Research
+* **BSCD Quantitative Biology Summer Fellowhip:** awarded $5,500 stipend for Quantitative Biology Research  
 
 Technical Projects
 ------
