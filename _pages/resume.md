@@ -23,6 +23,10 @@ Experience
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
 
+**University of Chicago East Asian Languages and Civilizations**, Chicago, IL
+*Research Assistant*, PI: **Dr. Chelsea Foxwell**, July 2026 - present  
+* Obtained and interpreted Japanese art history articles
+
 **University of Tokyo Department of Economics and Public Policy**, Tokyo, Japan, *Research Assistant*, June 2024 - August 2024
 * Conducted model analysis and data analysis on the relationship between the COVID-19 pandemic
 * Created graphs on inflation for G7 countries using Python (matplotlib) using data from FRED

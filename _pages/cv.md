@@ -24,6 +24,11 @@ PI: **Dr. Yuan Chang Leong**, September 2024 - present
 * Conducted eye-tracking experiments using pupillometry
 * Learned how to conduct fMRI studies and analyze data using fMRI Prep
 
+**University of Chicago East Asian Languages and Civilizations**, Chicago, IL
+*Research Assistant*,
+PI: **Dr. Chelsea Foxwell**, July 2026 - present  
+* Obtained and interpreted Japanese art history articles
+
 **University of Toko Department of Economics and Public Policy**, Tokyo, Japan, *Research Assistant*,  
 June 2024 - August 2024  
 * Conducted model analysis and data analysis on the relationship between the COVID-19 pandemic
