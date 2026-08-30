@@ -19,5 +19,6 @@ Presentations
 
 Ongoing Research
 ------
-1. How does emotional valence affect our memory? (advised by YC Leong)
-2. Can we decode brain data to semantics and does it generalize across different people? (advised by YC Leong)
+1. Does encoded brain activity similarity decrease with higher anxiety?
+ (advised by YC Leong)
+2. How does emotional valence affect our memory? (advised by YC Leong)

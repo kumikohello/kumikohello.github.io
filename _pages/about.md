@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
+Hello! I'm Kumiko, a fourth-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
 
-I am broadly interested in how our emotions affect our memory, and what distinguishes human cognition from computational models.
+Currently for my Cognitive Science honors thesis, I research how anxiety plays a role in how people encode information and whether the similarity of the reconstruction of semantics from brain activity evoked by naturalistic movies decrease with higher anxiety.  I use multivariate neuroimaging (fMRI) and encoding models to study these questions.
+
+I am broadly interested in how our emotions and past experiences affect our memory and perception, and what distinguishes human cognition from computational models. I am also interested in how semantic information is represented in the human brain, and exploring with encoding and decoding models.
+
+### More about me
+I enjoy writing and producing songs in my free time about nostalgia, depression, existentialism, and futurism. I also enjoy creating websites.
 
 My creative website: <a href="https://kumikohello.github.io/vellunea/">website</a>
+
+---
+### News
+- **June 2027** - expected to graduate from the University of Chicago with a B.A. with honors in Cognitive Science (Specialization in Psychology and Computer Science) and a B.S. in Computational and Applied Mathematics (Specialization in Machine Learning)
+- **September 2024** - started my research career as an undergraduate research assitant at the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>
+- **September 2023** - started undergraduate at the University of Chicago
 
 <!--
 A data-driven personal website
