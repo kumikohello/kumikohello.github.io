@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Kumiko, a fourth-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
+Hello! I'm Kumiko, a fourth-year undergraduate student double majoring in Cognitive Science and Computational and Applied Mathematics at the University of Chicago. I am an Undergraduate Researach Assistant in the <a href="https://mcnlab.uchicago.edu/">Computational Affective and Social Neuroscience Laboratory</a>, advised by Dr. Yuan Chang Leong. 
 
 Currently for my Cognitive Science honors thesis, I research how anxiety plays a role in how people encode information and whether the similarity of the reconstruction of semantics from brain activity evoked by naturalistic movies decrease with higher anxiety.  I use multivariate neuroimaging (fMRI) and encoding models to study these questions.
 
@@ -16,7 +16,7 @@ I am broadly interested in how our emotions and past experiences affect our memo
 ### More about me
 I enjoy writing and producing songs in my free time about nostalgia, depression, existentialism, and futurism. I also enjoy creating websites.
 
-My creative website: <a href="https://kumikohello.github.io/vellunea/">website</a>
+My creative website: <a href="https://kumikohello.github.io/dabigmiko/">website</a>
 
 ---
 ### News

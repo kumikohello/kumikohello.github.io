@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/curriculumvitae.pdf
+  - /files/resume.pdf
 ---
