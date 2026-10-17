@@ -3,10 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
-redirect_to:
-  - /files/resume.pdf
 ---
 
 Presentations
